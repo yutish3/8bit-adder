@@ -3,5 +3,7 @@
 waveform is the output when the testbench is ran
 
 <img width="1750" height="411" alt="image" src="https://github.com/user-attachments/assets/f7158609-0536-4fcb-9448-c9d8953f79b9" />
+<img width="1398" height="834" alt="image" src="https://github.com/user-attachments/assets/c0340c98-eb00-4f83-80ee-a87d12629067" />
+
 
 
